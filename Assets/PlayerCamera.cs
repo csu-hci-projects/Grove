@@ -5,6 +5,9 @@ using UnityEngine;
 public class PlayerCamera : MonoBehaviour
 {
 
+    // Code referenced from "Dave / GameDevelopment"
+    // https://www.youtube.com/watch?v=f473C43s8nE
+
     public float xSensitivity;
     public float ySensitivity;
     float xRotation;
@@ -16,7 +19,7 @@ public class PlayerCamera : MonoBehaviour
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = true;
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
