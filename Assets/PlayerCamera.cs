@@ -29,7 +29,7 @@ public class PlayerCamera : MonoBehaviour
         float yMotion = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * ySensitivity;
 
         yRotation += xMotion;
-        yRotation = Mathf.Clamp(yRotation, 90f, 270f);
+        //yRotation = Mathf.Clamp(yRotation, 90f, 270f);
 
         xRotation -= yMotion;
         xRotation = Mathf.Clamp(xRotation, -85f, 85f);
