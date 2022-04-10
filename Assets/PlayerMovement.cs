@@ -49,9 +49,9 @@ public class PlayerMovement : MonoBehaviour
         grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.2f, isGround);
         MovementInput();
         MovementSpeedControl();
-        if(grounded)
+        if (grounded)
             playerBody.drag = drag;
-        else
+        else if (!grounded)
             playerBody.drag = 0;
     }
 
