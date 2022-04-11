@@ -938,7 +938,7 @@ MonoBehaviour:
   currentlyPickedUpObject: {fileID: 0}
   minSpeed: 0
   maxSpeed: 6000
-  maxDistance: 20
+  maxDistance: 10
   rotationSpeed: 100
 --- !u!1 &705507993
 GameObject:
