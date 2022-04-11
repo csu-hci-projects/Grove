@@ -10,8 +10,8 @@ public class PlayerCamera : MonoBehaviour
 
     public float xSensitivity;
     public float ySensitivity;
-    float xRotation;
-    float yRotation;
+    public float xRotation;
+    public float yRotation;
 
     public Transform orientation;
 
@@ -19,7 +19,7 @@ public class PlayerCamera : MonoBehaviour
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        Cursor.visible = true;
     }
 
     // Update is called once per frame
