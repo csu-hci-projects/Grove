@@ -4,6 +4,10 @@ using UnityEngine;
  
 public class PlayerInteractions : MonoBehaviour
 {
+
+    // Code referenced from "RobertoGattoArt"
+    // https://www.youtube.com/watch?v=dzACO724qXI
+
     [Header("InteractableInfo")]
     public float sphereCastRadius = 0.5f;
     public int interactableLayerIndex;

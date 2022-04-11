@@ -10,8 +10,8 @@ public class PlayerCamera : MonoBehaviour
 
     public float xSensitivity;
     public float ySensitivity;
-    float xRotation;
-    float yRotation;
+    public float xRotation;
+    public float yRotation;
 
     public Transform orientation;
 

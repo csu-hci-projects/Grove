@@ -4,6 +4,10 @@ using UnityEngine;
  
 public class PhysicsObject : MonoBehaviour
 {
+
+    // Code referenced from "RobertoGattoArt"
+    // https://www.youtube.com/watch?v=dzACO724qXI
+
     public float waitOnPickup = 0.2f;
     public float breakForce = 35f;
     [HideInInspector] public bool pickedUp = false;
