@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OnTrigger : MonoBehaviour
 {
-    void Collision(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         //other.GetComponent<Rigidbody>().material.color = Color.red;
         Color red = Color.red;
