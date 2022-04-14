@@ -6,8 +6,14 @@ public class OnTrigger : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        //other.GetComponent<Rigidbody>().material.color = Color.red;
-        Color red = Color.red;
-        GetComponent<Renderer>().material.color = red;
+        if (other.gameObject.tag == "AnswerCube")
+        {
+            Color red = Color.red;
+            GetComponent<Renderer>().material.color = red;
+        }
+        else
+        {
+            return;
+        }
     }
 }
