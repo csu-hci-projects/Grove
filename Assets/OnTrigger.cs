@@ -4,12 +4,26 @@ using UnityEngine;
 
 public class OnTrigger : MonoBehaviour
 {
+    [Header("Question Settings")]
+
+    Color response;
+    public bool correct;
+
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "AnswerCube")
         {
-            Color red = Color.red;
-            GetComponent<Renderer>().material.color = red;
+            if (correct == true)
+            {
+                response = Color.green;
+                Debug.Log("Guessed correctly!");
+            }
+            else
+            {
+                response = Color.red;
+                Debug.Log("Guessed incorrectly");
+            }
+            GetComponent<Renderer>().material.color = response;
         }
         else
         {
