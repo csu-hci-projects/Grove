@@ -2,28 +2,31 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OnTrigger : MonoBehaviour
+public class NextQuestion : MonoBehaviour
 {
-    [Header("Question Settings")]
+    private Color response;
 
-    Color response;
-    public bool correct;
+    void DestroyGameObject()
+    {
+        Destroy(gameObject);
+    }
 
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "AnswerCube")
         {
-            if (correct == true)
+            if (other.GetComponent<Renderer>().material.color == Color.green)
             {
                 response = Color.green;
-                Debug.Log("Guessed correctly!");
+                Destroy(gameObject);
+                Destroy(other);
+                Debug.Log("Next question unlocked!");
             }
             else
             {
                 response = Color.red;
-                Debug.Log("Guessed incorrectly");
+                Debug.Log("User attempted to unlock next question");
             }
-            GetComponent<Renderer>().material.color = response;
         }
         else
         {
