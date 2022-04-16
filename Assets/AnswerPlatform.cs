@@ -1,13 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine; 
 
 public class AnswerPlatform : MonoBehaviour
 {
     [Header("Question Settings")]
 
-    Color response;
     public bool correct;
+    private Color response;
 
     void OnTriggerEnter(Collider other)
     {
