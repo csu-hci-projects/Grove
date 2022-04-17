@@ -10,7 +10,7 @@ https://www.overleaf.com/read/zbcfgnnrpqhc
 ### YouTube link:
 [--]
 
-### Project Introduction
+### Project Introduction:
 
 I am Luke Grove and this is my research project for CS-464.
 
