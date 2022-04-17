@@ -1,6 +1,6 @@
 # Virtual Environment for Memorization and Content Exploration in Educational Settings
 
-## Checkpoint 2 (3/29/22)
+## Checkpoint 1 (3/29/22)
 
 ### Overleaf link:
 https://www.overleaf.com/read/zbcfgnnrpqhc
