@@ -7,10 +7,12 @@ public class AnswerPlatform : MonoBehaviour
     [Header("Question Settings")]
 
     public bool correct;
+    public Transform door;
     private Color response;
 
     void OnTriggerEnter(Collider other)
     {
+        response = Color.red;
         if (other.gameObject.tag == "AnswerCube")
         {
             if (correct == true)
@@ -20,11 +22,11 @@ public class AnswerPlatform : MonoBehaviour
             }
             else
             {
-                response = Color.red;
                 Debug.Log("Guessed incorrectly");
             }
             GetComponent<Renderer>().material.color = response;
             other.GetComponent<Renderer>().material.color = response;
+            door.GetComponent<Renderer>().material.color = response;
         }
         else
         {
