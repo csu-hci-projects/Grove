@@ -8,7 +8,7 @@ https://www.overleaf.com/read/zbcfgnnrpqhc
 ## Checkpoint 2 (4/16/22)
 
 ### YouTube link:
-[--]
+https://www.youtube.com/watch?v=5j9ATsWHhRE
 
 ### Project Introduction:
 
