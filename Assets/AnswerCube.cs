@@ -15,8 +15,8 @@ public class AnswerCube : MonoBehaviour
 
     [Header("Correct Settings")]
     public Text correctDisplay;
-    private float correct = 0f;
-    private float check = 0f;
+    //private float correct = 0f;
+    //private float check = 0f;
 
     [Header("Attempts Settings")]
     public Text attemptDisplay;
@@ -27,7 +27,7 @@ public class AnswerCube : MonoBehaviour
     {
         startingColor = GetComponent<Renderer>().material.color;
         progressDisplay = progressDisplay.GetComponent<Text>() as Text;
-        correctDisplay = correctDisplay.GetComponent<Text>() as Text;
+        //correctDisplay = correctDisplay.GetComponent<Text>() as Text;
         attemptDisplay = attemptDisplay.GetComponent<Text>() as Text;
     }
 
@@ -35,7 +35,7 @@ public class AnswerCube : MonoBehaviour
     void Update()
     {
         progressDisplay.text = progress.ToString("0");
-        correctDisplay.text = correct.ToString("0");
+        //correctDisplay.text = correct.ToString("0");
         attemptDisplay.text = attempts.ToString("0");
     }
 
@@ -66,15 +66,8 @@ public class AnswerCube : MonoBehaviour
         {
             if (other.GetComponent<Renderer>().material.color == Color.green)
             {
-                if (check > 0)
-                {
-                    return;
-                }
-                correct++;
-                attempts++;
-                check++;
-                attempts--;
-                //other.enabled = true;
+                //correct++;
+                //attempts++;
             }
             else
             {
