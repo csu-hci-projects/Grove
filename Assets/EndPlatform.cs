@@ -12,7 +12,7 @@ public class EndPlatform : MonoBehaviour
         {
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
-            SceneManager.LoadScene("Main Menu");
+            SceneManager.LoadScene("Holding");
             Debug.Log("Level completed!");
         }
     }
