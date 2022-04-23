@@ -46,7 +46,6 @@ public class TutorialCube : MonoBehaviour
         }
         else if (other.gameObject.tag == "TutorialPlatform")
         {
-            
             if (other.GetComponent<Renderer>().material.color == Color.green)
             {
                 //
