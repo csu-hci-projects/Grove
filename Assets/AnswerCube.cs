@@ -12,11 +12,11 @@ public class AnswerCube : MonoBehaviour
     [Header("Progress Settings")]
     public Text progressDisplay;
     private float progress = 0f;
-    private float tutorial = 0f;
 
     [Header("Correct Settings")]
     public Text correctDisplay;
     private float correct = 0f;
+    private float check = 0f;
 
     [Header("Attempts Settings")]
     public Text attemptDisplay;
@@ -48,15 +48,7 @@ public class AnswerCube : MonoBehaviour
     {
         if (other.gameObject.tag == "AnswerDoor")
         {
-            if (tutorial == 0)
-            {
-                responseColor = Color.green;
-                tutorial++;
-                Destroy(other.gameObject);
-                GetComponent<Renderer>().material.color = startingColor;
-                Debug.Log("Next question unlocked!");
-            }
-            if (other.GetComponent<Renderer>().material.color == Color.green && tutorial > 0)
+            if (other.GetComponent<Renderer>().material.color == Color.green)
             {
                 responseColor = Color.green;
                 progress++;
@@ -74,13 +66,21 @@ public class AnswerCube : MonoBehaviour
         {
             if (other.GetComponent<Renderer>().material.color == Color.green)
             {
+                if (check > 0)
+                {
+                    return;
+                }
                 correct++;
+                attempts++;
+                check++;
+                attempts--;
+                //other.enabled = true;
             }
             else
             {
                 other.enabled = false;
+                attempts++;
             }
-            attempts++;
         }
         else
         {
