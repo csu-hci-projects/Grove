@@ -8,6 +8,8 @@ TagManager:
   - AnswerCube
   - AnswerPlatform
   - AnswerDoor
+  - TutorialDoor
+  - TutorialPlatform
   layers:
   - Default
   - TransparentFX
