@@ -28,6 +28,7 @@ public class MainMenu : MonoBehaviour
         buttonOne = buttonOne.GetComponent<Button>();
         buttonTwo = buttonTwo.GetComponent<Button>();
         buttonThree = buttonThree.GetComponent<Button>();
+        //Time.tim
     }
 
     // Update is called once per frame
@@ -45,19 +46,19 @@ public class MainMenu : MonoBehaviour
     {
         DisableButton(buttonOne);
         SceneManager.LoadScene(levelOne);
-        Debug.Log("Level one loaded...");
+        Debug.Log("Level one loaded!");
     }
 
     public void LevelTwo()
     {
         SceneManager.LoadScene(levelTwo);
-        Debug.Log("Level two loaded...");
+        Debug.Log("Level two loaded!");
     }
 
     public void LevelThree()
     {
         SceneManager.LoadScene(levelThree);
-        Debug.Log("Level three loaded...");
+        Debug.Log("Level three loaded!");
     }
 
     public void Exit()
