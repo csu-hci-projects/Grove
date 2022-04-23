@@ -26,9 +26,9 @@ public class AnswerCube : MonoBehaviour
     void Start()
     {
         startingColor = GetComponent<Renderer>().material.color;
-        progressDisplay = GetComponent<Text>() as Text;
-        correctDisplay = GetComponent<Text>() as Text;
-        attemptDisplay = GetComponent<Text>() as Text;
+        progressDisplay = progressDisplay.GetComponent<Text>() as Text;
+        correctDisplay = correctDisplay.GetComponent<Text>() as Text;
+        attemptDisplay = attemptDisplay.GetComponent<Text>() as Text;
     }
 
     // Update is called once per frame
@@ -75,6 +75,10 @@ public class AnswerCube : MonoBehaviour
             if (other.GetComponent<Renderer>().material.color == Color.green)
             {
                 correct++;
+            }
+            else
+            {
+                other.enabled = false;
             }
             attempts++;
         }
