@@ -12,11 +12,11 @@ public class AnswerCube : MonoBehaviour
     [Header("Progress Settings")]
     public Text progressDisplay;
     private float progress = 0f;
-    private float tutorial = 0f;
 
     [Header("Correct Settings")]
     public Text correctDisplay;
-    private float correct = 0f;
+    //private float correct = 0f;
+    //private float check = 0f;
 
     [Header("Attempts Settings")]
     public Text attemptDisplay;
@@ -27,7 +27,7 @@ public class AnswerCube : MonoBehaviour
     {
         startingColor = GetComponent<Renderer>().material.color;
         progressDisplay = progressDisplay.GetComponent<Text>() as Text;
-        correctDisplay = correctDisplay.GetComponent<Text>() as Text;
+        //correctDisplay = correctDisplay.GetComponent<Text>() as Text;
         attemptDisplay = attemptDisplay.GetComponent<Text>() as Text;
     }
 
@@ -35,7 +35,7 @@ public class AnswerCube : MonoBehaviour
     void Update()
     {
         progressDisplay.text = progress.ToString("0");
-        correctDisplay.text = correct.ToString("0");
+        //correctDisplay.text = correct.ToString("0");
         attemptDisplay.text = attempts.ToString("0");
     }
 
@@ -48,15 +48,7 @@ public class AnswerCube : MonoBehaviour
     {
         if (other.gameObject.tag == "AnswerDoor")
         {
-            if (tutorial == 0)
-            {
-                responseColor = Color.green;
-                tutorial++;
-                Destroy(other.gameObject);
-                GetComponent<Renderer>().material.color = startingColor;
-                Debug.Log("Next question unlocked!");
-            }
-            if (other.GetComponent<Renderer>().material.color == Color.green && tutorial > 0)
+            if (other.GetComponent<Renderer>().material.color == Color.green)
             {
                 responseColor = Color.green;
                 progress++;
@@ -74,13 +66,14 @@ public class AnswerCube : MonoBehaviour
         {
             if (other.GetComponent<Renderer>().material.color == Color.green)
             {
-                correct++;
+                //correct++;
+                //attempts++;
             }
             else
             {
                 other.enabled = false;
+                attempts++;
             }
-            attempts++;
         }
         else
         {
