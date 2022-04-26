@@ -379,7 +379,7 @@ MonoBehaviour:
   buttonOne: {fileID: 1609958829}
   levelOne: Level_1
   buttonTwo: {fileID: 1473071589}
-  levelTwo: 
+  levelTwo: Level_2
   buttonThree: {fileID: 651311613}
   levelThree: 
 --- !u!1 &487291789
