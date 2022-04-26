@@ -876,7 +876,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19604
+  m_Name: pb_Mesh65050
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1907,7 +1907,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17472
+  m_Name: pb_Mesh62918
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Discover oneself\t3) Worship God\n\n2) Go to heavan\t\t4) Pay tribute\n"
+  m_text: "1) Nourishment\t       3) Fasting\n\n2) Maintence of heatlh\t4) Running\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2625,7 +2625,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19010
+  m_Name: pb_Mesh64456
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2959,7 +2959,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18296
+  m_Name: pb_Mesh63742
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3123,7 +3123,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19112
+  m_Name: pb_Mesh64558
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -4224,7 +4224,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19246
+  m_Name: pb_Mesh64692
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6291,7 +6291,7 @@ MonoBehaviour:
   m_text: 'Question #3
 
 
-    How many gods are there in Islam?
+    What does the second pillar represent?
 
 '
   m_isRightToLeft: 0
@@ -6412,7 +6412,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17618
+  m_Name: pb_Mesh63064
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6576,7 +6576,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18380
+  m_Name: pb_Mesh63826
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7722,7 +7722,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19326
+  m_Name: pb_Mesh64772
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8293,7 +8293,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Heaven\t\t\t3) Hajj\n\n2) Paradise                      4) N/A"
+  m_text: "1) As heresy\t                       3) As law\n\n   2) Is ignored     
+    4) Is an Islamic variant"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8463,7 +8464,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Avesta\t\t\t3) Bible\n\n2) Quran\t\t\t4) Vedas\n"
+  m_text: '1) Assertion of Muhammad
+
+    2) Assertion of ego
+
+    3) Assertion of
+    faith
+
+    4) Assertion of prayer'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8490,8 +8498,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12
-  m_fontSizeBase: 12
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8582,7 +8590,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17742
+  m_Name: pb_Mesh63188
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -8746,7 +8754,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18420
+  m_Name: pb_Mesh63866
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10023,7 +10031,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17874
+  m_Name: pb_Mesh63320
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10391,7 +10399,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18552
+  m_Name: pb_Mesh63998
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10611,7 +10619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 697920556}
 --- !u!65 &393853540
 BoxCollider:
@@ -10911,7 +10919,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19696
+  m_Name: pb_Mesh65142
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12096,7 +12104,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18084
+  m_Name: pb_Mesh63530
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12260,7 +12268,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18952
+  m_Name: pb_Mesh64398
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23170,7 +23178,7 @@ MonoBehaviour:
   m_text: 'Question #10
 
 
-    How is destiny perceived in Islam?
+    How is Jesus viewed in Islam?
 
 '
   m_isRightToLeft: 0
@@ -23291,7 +23299,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18460
+  m_Name: pb_Mesh63906
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -23811,7 +23819,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19306
+  m_Name: pb_Mesh64752
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24420,7 +24428,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18016
+  m_Name: pb_Mesh63462
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -25114,7 +25122,8 @@ MonoBehaviour:
   m_text: 'Question #8
 
 
-    In Islam, how does God forgive the sins of worshippers?
+    Are medical exemptions offered for the pillars?
+
 
 '
   m_isRightToLeft: 0
@@ -25718,7 +25727,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18278
+  m_Name: pb_Mesh63724
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -25882,7 +25891,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18582
+  m_Name: pb_Mesh64028
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -26938,7 +26947,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18776
+  m_Name: pb_Mesh64222
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27102,7 +27111,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18266
+  m_Name: pb_Mesh63712
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27622,7 +27631,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17988
+  m_Name: pb_Mesh63434
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27786,7 +27795,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19398
+  m_Name: pb_Mesh64844
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28510,7 +28519,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18660
+  m_Name: pb_Mesh64106
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28970,7 +28979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 540278977}
 --- !u!65 &664721979
 BoxCollider:
@@ -29270,7 +29279,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18440
+  m_Name: pb_Mesh63886
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29658,7 +29667,7 @@ MonoBehaviour:
   m_text: 'Question #5
 
 
-    What is the purpose of life in Islam?
+    What does the fourth pillar represent?
 
 '
   m_isRightToLeft: 0
@@ -30972,7 +30981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 450358620}
 --- !u!65 &747620993
 BoxCollider:
@@ -45230,7 +45239,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19368
+  m_Name: pb_Mesh64814
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -45707,7 +45716,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18788
+  m_Name: pb_Mesh64234
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -45871,7 +45880,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19448
+  m_Name: pb_Mesh64894
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46035,7 +46044,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17666
+  m_Name: pb_Mesh63112
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -46255,7 +46264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 1179772911}
 --- !u!65 &874591921
 BoxCollider:
@@ -46555,7 +46564,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19192
+  m_Name: pb_Mesh64638
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -47258,7 +47267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 1811486709}
 --- !u!65 &919341860
 BoxCollider:
@@ -47558,7 +47567,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19060
+  m_Name: pb_Mesh64506
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -48256,7 +48265,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) One\t\t\t3) Three\n\n2) Two\t\t\t4) Four\n"
+  m_text: "1) Faith\t\t\t3) Tithe\n\n2) Charity\t\t\t4) Prayer\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -48731,7 +48740,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17498
+  m_Name: pb_Mesh62944
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -48895,7 +48904,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17946
+  m_Name: pb_Mesh63392
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -49838,7 +49847,9 @@ MonoBehaviour:
   m_text: 'Question #9
 
 
-    What is the name of the Islamic afterlife?'
+    How does Islam view the ten commandments?
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -50525,7 +50536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 24055736}
 --- !u!65 &1016568607
 BoxCollider:
@@ -50825,7 +50836,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18358
+  m_Name: pb_Mesh63804
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -51077,7 +51088,7 @@ MonoBehaviour:
   m_text: 'Question #7
 
 
-    In Islam, what does it mean to be a muslim?
+    To what degree must a muslim follow the five pillars?
 
 '
   m_isRightToLeft: 0
@@ -51249,7 +51260,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "      1) Jesus\t\t\t3) Muhammad\n\n2) Ibrahim \t\t\t4) God\n"
+  m_text: "1) Five\t                     3) Seven\n\n2) Six \t\t          4) Eight\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -51764,7 +51775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 697920556}
 --- !u!65 &1053987966
 BoxCollider:
@@ -52154,7 +52165,7 @@ MonoBehaviour:
   m_text: 'Question #2
 
 
-    What is the holy text of Islam?
+    What does the first pillar represent?
 
 '
   m_isRightToLeft: 0
@@ -53901,7 +53912,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17926
+  m_Name: pb_Mesh63372
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55388,7 +55399,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19158
+  m_Name: pb_Mesh64604
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55552,7 +55563,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17846
+  m_Name: pb_Mesh63292
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55716,7 +55727,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18530
+  m_Name: pb_Mesh63976
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -55880,7 +55891,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18480
+  m_Name: pb_Mesh63926
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -56079,7 +56090,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18138
+  m_Name: pb_Mesh63584
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -56299,7 +56310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 24055736}
 --- !u!65 &1220052503
 BoxCollider:
@@ -57110,7 +57121,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17762
+  m_Name: pb_Mesh63208
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -57999,7 +58010,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 540278977}
 --- !u!65 &1266329359
 BoxCollider:
@@ -58299,7 +58310,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19564
+  m_Name: pb_Mesh65010
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -58463,7 +58474,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18690
+  m_Name: pb_Mesh64136
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59189,8 +59200,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) To submit to God\t3) To be faithful\n\n2) To love God \t4) To worship
-    Islam"
+  m_text: "1) Mandatory\t      3) All optional\n\n2) Some optional\t   4) Not at
+    all"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -59309,7 +59320,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18402
+  m_Name: pb_Mesh63848
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -59559,7 +59570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 1294021755}
 --- !u!65 &1345222603
 BoxCollider:
@@ -59910,16 +59921,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1) Predetermined by God
-
-    2) Predetermined by Quran
-
-    3) Indeterminate
-
-    4)
-    Not at all
-
-'
+  m_text: "1) Regular person\t\t  3) Son of God\n\n2) Prophet\t          4) N/A"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -60038,7 +60040,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18848
+  m_Name: pb_Mesh64294
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -60741,7 +60743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 450358620}
 --- !u!65 &1388304909
 BoxCollider:
@@ -61041,7 +61043,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17682
+  m_Name: pb_Mesh63128
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61205,7 +61207,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18240
+  m_Name: pb_Mesh63686
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -61468,7 +61470,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17434
+  m_Name: pb_Mesh62880
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62301,7 +62303,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19072
+  m_Name: pb_Mesh64518
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62465,7 +62467,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18116
+  m_Name: pb_Mesh63562
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -62629,7 +62631,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18508
+  m_Name: pb_Mesh63954
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63106,7 +63108,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17570
+  m_Name: pb_Mesh63016
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -63270,7 +63272,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18100
+  m_Name: pb_Mesh63546
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64088,7 +64090,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17654
+  m_Name: pb_Mesh63100
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64252,7 +64254,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18756
+  m_Name: pb_Mesh64202
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64470,7 +64472,7 @@ MonoBehaviour:
   m_text: 'Question #6
 
 
-    In Islam, how does one worship god?
+    What does the fifth pillar represent?
 
 '
   m_isRightToLeft: 0
@@ -64627,7 +64629,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18222
+  m_Name: pb_Mesh63668
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -64847,7 +64849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 2052083418}
 --- !u!65 &1561367493
 BoxCollider:
@@ -65641,7 +65643,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18708
+  m_Name: pb_Mesh64154
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -66459,7 +66461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 756402642}
 --- !u!65 &1666055806
 BoxCollider:
@@ -66813,7 +66815,7 @@ MonoBehaviour:
   m_text: 'Question #4
 
 
-    How are angels depicted in Islam?
+    What does the third pillar represent?
 
 '
   m_isRightToLeft: 0
@@ -66934,7 +66936,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18922
+  m_Name: pb_Mesh64368
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -67319,11 +67321,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1)  N/A                                 3) Humanoid
+  m_text: '1) Kindness                     3) Repentence
 
 
-    2) Geometric            
-    4) Anthropomorphic
+    2) Alms giving            
+    4) Paying tithes
 
 '
   m_isRightToLeft: 0
@@ -67444,7 +67446,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18822
+  m_Name: pb_Mesh64268
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -69145,7 +69147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 2052083418}
 --- !u!65 &1793378430
 BoxCollider:
@@ -70462,7 +70464,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Prayer\t\t\t3) Repentance\n\n2) Tithes\t\t\t4) Kindness"
+  m_text: "1) Yes\t\t\t3) Maybe\n\n2) No\t\t\t4) N/A"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -70581,7 +70583,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17958
+  m_Name: pb_Mesh63404
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -71101,7 +71103,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17452
+  m_Name: pb_Mesh62898
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -71641,7 +71643,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19626
+  m_Name: pb_Mesh65072
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -71805,7 +71807,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18330
+  m_Name: pb_Mesh63776
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -71969,7 +71971,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18874
+  m_Name: pb_Mesh64320
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -72133,7 +72135,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18734
+  m_Name: pb_Mesh64180
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -72383,7 +72385,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Through clergy         3) Publicly\n\n2) Through a mosque\t  4) Personally\n"
+  m_text: "1) Pilgrimage         3) Social standing\n\n2) Migration\t  4) Community
+    participation\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -72672,7 +72675,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18892
+  m_Name: pb_Mesh64338
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -72836,7 +72839,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19030
+  m_Name: pb_Mesh64476
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73000,7 +73003,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18346
+  m_Name: pb_Mesh63792
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73164,7 +73167,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18186
+  m_Name: pb_Mesh63632
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73328,7 +73331,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19548
+  m_Name: pb_Mesh64994
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73666,7 +73669,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19656
+  m_Name: pb_Mesh65102
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73830,7 +73833,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17722
+  m_Name: pb_Mesh63168
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -73994,7 +73997,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19582
+  m_Name: pb_Mesh65028
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -75089,7 +75092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 1811486709}
 --- !u!65 &1996196890
 BoxCollider:
@@ -75389,7 +75392,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18982
+  m_Name: pb_Mesh64428
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -75553,7 +75556,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18806
+  m_Name: pb_Mesh64252
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -76073,7 +76076,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19124
+  m_Name: pb_Mesh64570
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -76237,7 +76240,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19216
+  m_Name: pb_Mesh64662
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -76742,7 +76745,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18904
+  m_Name: pb_Mesh64350
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -77076,7 +77079,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh19096
+  m_Name: pb_Mesh64542
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -77240,7 +77243,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18604
+  m_Name: pb_Mesh64050
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -77768,12 +77771,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Question #1
-
-
-    Who is the key prophet of Islam?
-
-'
+  m_text: "Question #1\n\nHow many \u201Cpillars\u201D of Islam are there?\r\n(Assuming
+    the Sunni denomination)\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -77892,7 +77891,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17816
+  m_Name: pb_Mesh63262
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -78396,7 +78395,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh18038
+  m_Name: pb_Mesh63484
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -78616,7 +78615,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 1294021755}
 --- !u!65 &2144647237
 BoxCollider:
