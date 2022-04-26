@@ -59910,8 +59910,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Predetermined by God\t3) Indeterminate\n\n2) Predetermined by Quran\t 
-    4) Not at all\n"
+  m_text: '1) Predetermined by God
+
+    2) Predetermined by Quran
+
+    3) Indeterminate
+
+    4)
+    Not at all
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -72375,7 +72383,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Through the clergy\t3)  Publicly\n\n2) Through a mosque\t4) Personally\n"
+  m_text: "1) Through clergy         3) Publicly\n\n2) Through a mosque\t  4) Personally\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
