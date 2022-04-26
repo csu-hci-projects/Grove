@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class EndPlatform : MonoBehaviour
 {
-
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")
