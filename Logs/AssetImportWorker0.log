@@ -149,6 +149,7 @@ Received Import Request.
   path: Assets/Scenes/Level_2.unity
   artifactKey: Guid(6a1418c75d70a71468eca1b0d0fc8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Level_2.unity using Guid(6a1418c75d70a71468eca1b0d0fc8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2a76295aadc7428f46c1bce5953176') in 0.007753 seconds 
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 6524.091620 seconds.
@@ -179,3 +180,5 @@ Received Import Request.
   path: Assets/Scenes/Main Menu.unity
   artifactKey: Guid(e7740976ac7d49d4f826076d2b64a5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Main Menu.unity using Guid(e7740976ac7d49d4f826076d2b64a5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a60ee9d38b010d1086aa404e32706d') in 0.003559 seconds 
+=======
+>>>>>>> 5f164601145c491de6d0e1b3bfe911b4e14e6fb8
