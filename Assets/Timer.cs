@@ -6,7 +6,7 @@ public class Timer : MonoBehaviour
     //public Transform end;
     public Text timerDisplay;
     private float timer = 0f;
-    private bool timing = true;
+    //private bool timing = true;
  
     void Start()
     {
@@ -16,20 +16,7 @@ public class Timer : MonoBehaviour
 
     void Update()
     {
-        while (timing == true)
-        {
-            timer += Time.deltaTime;
-            timerDisplay.text = timer.ToString("0");
-        }
-    }
-
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.tag == "Player")
-        {
-            timing = false;
-            Debug.Log("TIMER STOPPED");
-            Debug.Log(timer);
-        }
+        timer += Time.deltaTime;
+        timerDisplay.text = timer.ToString("0");
     }
  }

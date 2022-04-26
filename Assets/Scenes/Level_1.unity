@@ -576,7 +576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 756402642}
 --- !u!65 &15679835
 BoxCollider:
@@ -2122,7 +2122,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Discover oneself\t3) Go to heavan\n\n2) Worship God\t\t4) Pay tribute\n"
+  m_text: "1) Discover oneself\t3) Worship God\n\n2) Go to heavan\t\t4) Pay tribute\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -28970,7 +28970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 540278977}
 --- !u!65 &664721979
 BoxCollider:
@@ -32497,7 +32497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 1179772911}
 --- !u!65 &817633429
 BoxCollider:
@@ -51249,7 +51249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) Jesus\t\t\t3) Muhammad\n\n2) Ibrahim \t\t\t4) God\n"
+  m_text: "      1) Jesus\t\t\t3) Muhammad\n\n2) Ibrahim \t\t\t4) God\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -52687,7 +52687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 1244129590}
 --- !u!65 &1070325831
 BoxCollider:
@@ -53601,7 +53601,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 540278977}
 --- !u!65 &1111445306
 BoxCollider:
@@ -59189,8 +59189,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "1) To worship Islam\t3) To be faithful\n\n2) To love God \t4) To submit
-    to God"
+  m_text: "1) To submit to God\t3) To be faithful\n\n2) To love God \t4) To worship
+    Islam"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -61993,7 +61993,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 1
+  correct: 0
   door: {fileID: 1179772911}
 --- !u!65 &1410156285
 BoxCollider:
@@ -65333,7 +65333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 756402642}
 --- !u!65 &1644105230
 BoxCollider:
@@ -67311,11 +67311,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1) Anthropomorphic            3) Humanoid
+  m_text: '1)  N/A                                 3) Humanoid
 
 
     2) Geometric            
-    4) N/A
+    4) Anthropomorphic
 
 '
   m_isRightToLeft: 0
@@ -75765,7 +75765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73db6fca359fe5748b2ebb8d9053b11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  correct: 0
+  correct: 1
   door: {fileID: 1244129590}
 --- !u!65 &2023215802
 BoxCollider:
