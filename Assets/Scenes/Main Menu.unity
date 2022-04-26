@@ -381,7 +381,7 @@ MonoBehaviour:
   buttonTwo: {fileID: 1473071589}
   levelTwo: Level_2
   buttonThree: {fileID: 651311613}
-  levelThree: 
+  levelThree: Level_3
 --- !u!1 &487291789
 GameObject:
   m_ObjectHideFlags: 0
