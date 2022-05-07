@@ -38,7 +38,7 @@ Physics Object + Interactions (RobertoGattoArt):
 > 
 > https://www.youtube.com/watch?v=dzACO724qXI
 
-Player Camera + Follow + Movement (Dave / GameDevelopment)
+Player Camera + Follow + Movement (Dave / GameDevelopment):
 > https://www.youtube.com/watch?v=f473C43s8nE
 > 
 > https://www.youtube.com/watch?v=f473C43s8nE
