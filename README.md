@@ -28,6 +28,19 @@ In all, the objective of what I am doing is creating a series of tests in a virt
 ### YouTube link (Presentation):
 [pending]
 
-## References / Sources
+## Code References / Sources
 
-e
+Main Menu (gamesplusjames):
+> https://www.youtube.com/watch?v=76WOa6IU_s8
+
+Physics Object + Interactions (RobertoGattoArt):
+> https://www.youtube.com/watch?v=dzACO724qXI
+> 
+> https://www.youtube.com/watch?v=dzACO724qXI
+
+Player Camera + Follow + Movement (Dave / GameDevelopment)
+> https://www.youtube.com/watch?v=f473C43s8nE
+> 
+> https://www.youtube.com/watch?v=f473C43s8nE
+> 
+> https://www.youtube.com/watch?v=f473C43s8nE
